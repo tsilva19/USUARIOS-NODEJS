@@ -21,13 +21,17 @@
 
 - yarn typeorm migration:revert
 
-## USANDO a api por contrato SWEGGER OPEN API
+## USANDO a api por contrato SWAGGER OPEN API
 
 - Acesse http://localhost:3333/api-docs
+
+![alt text](https://github.com/tsilva19/Injecao-Dependencia-node/blob/main/injetadependencia.png)
 
 ## USANDO no postman
 
 - Acesse GET E POST http://localhost:3333/categories
+
+- Acesse IMPORTAR VIA ARQUIVO use a opção multiformdata pra inserir arquivo csv de exemplos: arquivo.csv e sweeger.csv via POST http://localhost:3333/categories/import
 
 - Acesse GET E POST http://localhost:3333/specifications
 
