@@ -12,6 +12,7 @@
 
 - yarn typeorm migration:create -n CreateSpecifications
 
+- yarn typeorm migration:create -n CreateUsers
 
 ## comando para criar entity no postgres
 
